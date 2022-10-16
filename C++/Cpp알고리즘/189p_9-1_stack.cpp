@@ -40,7 +40,7 @@ int main() {
 	
 	push(3);
 	push(5);
-	std::cout << pop() << std::endl;
+	std::cout << pop() << "\n"<< "wer"<<std::endl;
 	
 	push(7);
 
